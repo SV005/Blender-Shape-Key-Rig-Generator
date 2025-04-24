@@ -10,3 +10,4 @@ Install this python code file as an add-on in Blender.
 5. Tool will be available in the 3D scene side panel, inside the tools section.
 
 ## Watch this video for installation and it's working.
+https://youtu.be/WAP09hSOZw8
