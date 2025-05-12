@@ -1,5 +1,5 @@
 # Blender-Shape-Key-Rig-Generator
-This tool will generate the polygon shape rig for animating the 3d object using it's different shape keys.
+This Blender addon can generate rigs for animating the 3d object using it's different shape keys.
 
 ## Installation 
 Install this python code file as an add-on in Blender.
